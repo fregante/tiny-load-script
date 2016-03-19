@@ -1,0 +1,11 @@
+{
+  "name": "tiny-load-script",
+  "version": "1.0.0",
+  "description": "Load a javascript file and forget about it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Brigante <npm@bfred.it> (https://twitter.com/bfred_it)",
+  "license": "MIT"
+}
